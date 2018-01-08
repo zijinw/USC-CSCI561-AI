@@ -1,5 +1,3 @@
-package com.laioffer.classone;
-
 import java.io.*;
 import java.util.*;
 
